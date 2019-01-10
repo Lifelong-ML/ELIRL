@@ -1,4 +1,4 @@
-# projLMLfromDemonstration
+# ELIRL
 2018 Project on Lifelong Learning from Demonstration
 
 This repository contains the code used to generate results for the NeurIPS-18 paper Lifelong Inverse Reinforcement Learning [1]. 
